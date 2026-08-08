@@ -1,0 +1,35 @@
+:root {
+  --blue: #007bff;
+  --white: #faf0e6;
+}
+
+.small-box{
+  text-align: center
+}
+.brand-text {
+  color: var(--blue);
+  text-align: center; !important;
+  font-weight: bolder;
+}
+h1 {
+  color: blue;
+  text-align: center
+}
+.small-box h3 {
+  font-size: xx-large;
+  color: var(--blue);
+  text-align: center
+}
+.for_blinking {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+.card-title{
+  font-size: 0.90em; !important;
+  font-weight: bold;
+}
