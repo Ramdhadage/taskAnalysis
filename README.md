@@ -12,7 +12,9 @@
 
 ## Live demo
 
-**Try it now:** [CDRSCE Task Analysis Dashboard](https://ti5syn-ramdhadage.shinyapps.io/CDRSCE_task_analysis/)
+**Try it now:** 
+Using the [github.io](https://ramdhadage.github.io/taskAnalysis/) deployment or the
+[shinyapps.io](https://ti5syn-ramdhadage.shinyapps.io/CDRSCE_task_analysis/)
 
 ## Key features
 
