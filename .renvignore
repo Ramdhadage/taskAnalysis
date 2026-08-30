@@ -3,3 +3,5 @@
 dev/
 tests/
 rsconnect/
+man/
+data-raw/
